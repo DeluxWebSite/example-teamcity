@@ -39,42 +39,38 @@
 
 ---
 
-![alt text]()
+![alt text](https://github.com/DeluxWebSite/example-teamcity/blob/master/screenshots/Снимок%20экрана%202025-08-29%20в%2017.08.43.png)
 
-![alt text]()
+![alt text](https://github.com/DeluxWebSite/example-teamcity/blob/master/screenshots/Снимок%20экрана%202025-08-29%20в%2016.31.42.png)
 
-![alt text]()
+![alt text](https://github.com/DeluxWebSite/example-teamcity/blob/master/screenshots/Снимок%20экрана%202025-08-29%20в%2017.32.31.png)
 
-![alt text]()
+![alt text](https://github.com/DeluxWebSite/example-teamcity/blob/master/screenshots/Снимок%20экрана%202025-08-29%20в%2017.36.58.png)
 
-![alt text]()
+![alt text](https://github.com/DeluxWebSite/example-teamcity/blob/master/screenshots/Снимок%20экрана%202025-08-29%20в%2017.37.23.png)
 
-![alt text]()
+![alt text](https://github.com/DeluxWebSite/example-teamcity/blob/master/screenshots/Снимок%20экрана%202025-08-29%20в%2017.44.06.png)
 
-![alt text]()
+![alt text](https://github.com/DeluxWebSite/example-teamcity/blob/master/screenshots/Снимок%20экрана%202025-08-29%20в%2017.44.51.png)
 
-![alt text]()
+![alt text](https://github.com/DeluxWebSite/example-teamcity/blob/master/screenshots/Снимок%20экрана%202025-08-29%20в%2017.46.08.png)
 
-![alt text]()
+![alt text](https://github.com/DeluxWebSite/example-teamcity/blob/master/screenshots/Снимок%20экрана%202025-08-29%20в%2017.50.58.png)
 
-![alt text]()
+![alt text](https://github.com/DeluxWebSite/example-teamcity/blob/master/screenshots/Снимок%20экрана%202025-08-29%20в%2017.57.33.png)
 
-![alt text]()
+![alt text](https://github.com/DeluxWebSite/example-teamcity/blob/master/screenshots/Снимок%20экрана%202025-08-29%20в%2017.58.06.png)
 
-![alt text]()
+![alt text](https://github.com/DeluxWebSite/example-teamcity/blob/master/screenshots/Снимок%20экрана%202025-08-29%20в%2017.58.59.png)
 
-![alt text]()
+![alt text](https://github.com/DeluxWebSite/example-teamcity/blob/master/screenshots/Снимок%20экрана%202025-08-29%20в%2017.59.29.png)
 
-![alt text]()
+![alt text](https://github.com/DeluxWebSite/example-teamcity/blob/master/screenshots/Снимок%20экрана%202025-08-29%20в%2018.54.57.png)
 
-![alt text]()
+![alt text](https://github.com/DeluxWebSite/example-teamcity/blob/master/screenshots/Снимок%20экрана%202025-08-29%20в%2018.55.06.png)
 
-![alt text]()
+![alt text](https://github.com/DeluxWebSite/example-teamcity/blob/master/screenshots/Снимок%20экрана%202025-08-29%20в%2018.57.30.png)
 
-![alt text]()
+![alt text](https://github.com/DeluxWebSite/example-teamcity/blob/master/screenshots/Снимок%20экрана%202025-08-29%20в%2019.13.55.png)
 
-![alt text]()
-
-![alt text]()
-
-![alt text]()
+![alt text](https://github.com/DeluxWebSite/example-teamcity/blob/master/screenshots/Снимок%20экрана%202025-08-29%20в%2019.14.26.png)
